@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752757078306",
+    "project_id": "learningapps-f55e2",
+    "storage_bucket": "learningapps-f55e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752757078306:android:399056e2076394e9784d7b",
+        "android_client_info": {
+          "package_name": "com.boltic28.learnmultiplying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752757078306-bn9gs2h7o70sld2hsrq0jja0f6sueo8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boltic28.learnmultiplying",
+            "certificate_hash": "16767d5205ffeeea67975725ae01a6e1a62560b0"
+          }
+        },
+        {
+          "client_id": "752757078306-3uqlam1fch3dpf6pkuon0s9ebl1ji583.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27js-cHL0wwxhYaygMlaP9PzHcc0pBEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752757078306-3uqlam1fch3dpf6pkuon0s9ebl1ji583.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

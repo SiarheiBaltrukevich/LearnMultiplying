@@ -56,7 +56,7 @@ class Game : ViewModel() {
     private val _scores = MutableLiveData("0")
     val scores: LiveData<String> get() = _scores
 
-    private var level: Level = levels.first()
+    private var level: Level = levels[3]
     private var sample: Sample = Sample(1, 1, 1)
     private var numberOfLevel: Int = 0
 
